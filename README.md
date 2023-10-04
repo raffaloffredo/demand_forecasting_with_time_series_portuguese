@@ -13,8 +13,8 @@ Esse estudo teve por objetivo criar um modelo de _machine-learnin_ para prever a
 
 Como resultado, de acordo com o MAPE, o modelo gerado pelo ARIMA obteve o melhor desempenho, com uma taxa de erro de apenas 2.33%, seguido pelo Prophet com 2.87% e do Holt com 2.90%.
 
-* **[Projeto na íntegra]()** ⚠️ EM CONSTRUÇÃO ⚠️
-* **[Artigo]()** ⚠️ EM CONSTRUÇÃO ⚠️
+* **[Projeto na íntegra](https://github.com/raffaloffredo/demand_forecasting_with_time_series_portuguese/blob/main/%5BLoffredoDS%5D_Previs%C3%A3o_de_demanda_com_S%C3%A9ries_Temporais.ipynb)**
+* **[Artigo]()** ⚠️ lançamento na próxima terça-feira ⚠️
 
 <br/>
 
