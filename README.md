@@ -1,8 +1,4 @@
-<p align=center>
-  ⚠️ EM CONSTRUÇÃO ⚠️
-</p>
-
-# 
+# Análise de séries temporais para previsão de demanda
 
 <img align="center" alt="EN" height="30" width="30" src="https://em-content.zobj.net/thumbs/120/whatsapp/326/flag-united-states_1f1fa-1f1f8.png"> _Click [here](https://github.com/raffaloffredo/demand_forecasting_with_time_series) to English-EN_   
 <br/>
