@@ -14,7 +14,13 @@ Esse estudo teve por objetivo criar um modelo de _machine-learnin_ para prever a
 Como resultado, de acordo com o MAPE, o modelo gerado pelo ARIMA obteve o melhor desempenho, com uma taxa de erro de apenas 2.33%, seguido pelo Prophet com 2.87% e do Holt com 2.90%.
 
 * **[Projeto na íntegra](https://github.com/raffaloffredo/demand_forecasting_with_time_series_portuguese/blob/main/%5BLoffredoDS%5D_Previs%C3%A3o_de_demanda_com_S%C3%A9ries_Temporais.ipynb)**
-* **[Artigo]()** ⚠️ lançamento na próxima terça-feira ⚠️
+* **[Artigo](https://medium.com/@loffredo.ds/an%C3%A1lise-de-s%C3%A9ries-temporais-para-previs%C3%A3o-de-demanda-6978ea069914)**
+* **[Artigo Resumido (Resultados)](https://www.linkedin.com/pulse/previs%25C3%25A3o-de-demanda-vinhos-por-meio-an%25C3%25A1lise-s%25C3%25A9ries-raffaela-loffredo)**
+
+<br/>
+
+## Material Extra
+Os principais resultados obtidos foram condensados em um infográfico.
 
 <br/>
 
