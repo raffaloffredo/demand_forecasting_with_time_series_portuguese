@@ -17,6 +17,10 @@ Como resultado, de acordo com o MAPE, o modelo gerado pelo ARIMA obteve o melhor
 * **[Artigo](https://medium.com/@loffredo.ds/an%C3%A1lise-de-s%C3%A9ries-temporais-para-previs%C3%A3o-de-demanda-6978ea069914)**
 * **[Artigo Resumido (Resultados)](https://www.linkedin.com/pulse/previs%25C3%25A3o-de-demanda-vinhos-por-meio-an%25C3%25A1lise-s%25C3%25A9ries-raffaela-loffredo)**
 
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/D4D12AQGJvSmNMtxI0A/article-inline_image-shrink_1500_2232/0/1696940949355?e=1702512000&v=beta&t=OkMXeLL1ZgE6u4grXJ9-rZPGA3hwqsSJUtr1mLTPpf4" width="70%">
+</p>
+
 <br/>
 
 ## Material Extra
